@@ -13,3 +13,5 @@ https://google.com
 There are also many Python courses for free on EdX:
 https://www.edx.org/learn/python
 
+Seems like changes in Sublime do not get recognised as a change by git.
+
